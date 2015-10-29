@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-GB" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:www.gov.uk,2005:/government/organisations/defence-science-and-technology-laboratory</id>
+  <link rel="alternate" type="text/html" href="https://www.gov.uk/"/>
+  <link rel="self" type="application/atom+xml" href="https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory.atom"/>
+  <title>Defence Science and Technology Laboratory - Activity on GOV.UK</title>
+  <author>
+    <name>HM Government</name>
+  </author>
+  <updated>2015-10-02T15:28:56+01:00</updated>
+  <entry>
+    <id>tag:www.gov.uk,2005:NewsArticlePresenter/301793</id>
+    <published>2015-07-27T11:55:00+01:00</published>
+    <updated>2015-10-02T15:28:56+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/cde-innovation-network-event-1-october-2015-london"/>
+    <title>News story: CDE Innovation Network event: 1 October 2015, London</title>
+    <category label="News story" term="News story"/>
+    <summary>The Centre for Defence Enterprise (CDE) held a networking event for science and technology providers in London on 1 October 2015.</summary>
+    <content type="html">&lt;p&gt;&lt;em&gt;Updated:&lt;/em&gt; Presentation slides now added. &lt;/p&gt;&lt;div class="govspeak"&gt;&lt;p&gt;The event took place in London at the &lt;a rel="external" href="http://www.grandconnaughtrooms.com"&gt;Grand Connaught Rooms&lt;/a&gt;, 9:30am to 4pm.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.gov.uk/government/people/jim-pennycook"&gt;Jim Pennycook&lt;/a&gt;, Head of Operations at &lt;abbr title="Centre for Defence Enterprise"&gt;CDE&lt;/abbr&gt;,  introduced &lt;abbr title="Centre for Defence Enterprise"&gt;CDE&lt;/abbr&gt; and gave an overview of proof-of-concept research funding opportunities for innovative science and technology providers. Technical experts provided specific information about the &lt;a href="https://www.gov.uk/government/publications/cde-themed-competition-security-for-the-internet-of-things"&gt;themed competition: security for the internet of things&lt;/a&gt;. This competition has up to £1 million available for fully funded phase-1 projects. &lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.slideshare.net/MOD_CDE/am-briefing-security-for-the-internet-of-things"&gt;View the presentation slides from the morning session&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In addition, Bruce Hardie, &lt;abbr title="Centre for Defence Enterprise"&gt;CDE&lt;/abbr&gt;’s Technology Manager, will talk about how to create an effective proposal for &lt;abbr title="Centre for Defence Enterprise"&gt;CDE&lt;/abbr&gt; funding.&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.slideshare.net/MOD_CDE/pm-briefing-security-for-the-internet-of-things"&gt;View the presentation slides from the afternoon session&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Attendees were able to pre-book a face-to-face meeting with &lt;abbr title="Centre for Defence Enterprise"&gt;CDE&lt;/abbr&gt; and subject matter experts to discuss potential proposals for the ‘security for the internet of things’ themed competition.&lt;/p&gt;
+
+&lt;p&gt;There were networking opportunities with other potential bidders, current &lt;abbr title="Defence Science and Technology Laboratory"&gt;Dstl&lt;/abbr&gt; suppliers, &lt;abbr title="Centre for Defence Enterprise"&gt;CDE&lt;/abbr&gt;, &lt;abbr title="Defence Science and Technology Laboratory"&gt;Dstl&lt;/abbr&gt; and military experts.&lt;/p&gt;
+
+&lt;h2 id="about-cde"&gt;About &lt;abbr title="Centre for Defence Enterprise"&gt;CDE&lt;/abbr&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;&lt;abbr title="Centre for Defence Enterprise"&gt;CDE&lt;/abbr&gt; funds novel, high-risk, high-potential-benefit research. We work with the broadest possible range of science and technology providers, including academia and small companies, to develop cost-effective capabilities for UK armed forces and national security.&lt;/p&gt;
+
+&lt;p&gt;&lt;abbr title="Centre for Defence Enterprise"&gt;CDE&lt;/abbr&gt; is part of &lt;a href="https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory"&gt;&lt;abbr title="Defence Science and Technology Laboratory"&gt;Dstl&lt;/abbr&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class="contact postal-address" id="contact_1917"&gt;
+  &lt;div class="content"&gt;
+    &lt;h3&gt;Centre for Defence Enterprise&lt;/h3&gt;
+
+    &lt;div class="vcard contact-inner"&gt;
+        &lt;p class="adr"&gt;
+&lt;span class="street-address"&gt;Building R103
+&lt;br&gt;
+Fermi Avenue
+&lt;br&gt;
+&lt;/span&gt;&lt;br&gt;
+&lt;span class="locality"&gt;Harwell Oxford&lt;/span&gt;&lt;br&gt;
+&lt;span class="region"&gt;Oxfordshire&lt;/span&gt;&lt;br&gt;
+&lt;span class="postal-code"&gt;OX11 0QX&lt;/span&gt;
+&lt;/p&gt;
+
+
+        &lt;div class="email-url-number"&gt;
+            &lt;p class="email"&gt;
+              &lt;span class="type"&gt;Email&lt;/span&gt;
+              &lt;a class="email" href="mailto:cde@dstl.gov.uk"&gt;cde@dstl.gov.uk&lt;/a&gt;
+            &lt;/p&gt;
+            &lt;p class="tel"&gt;
+              &lt;span class="type"&gt;Telephone &lt;/span&gt;
+              +44 (0)30 67704236
+            &lt;/p&gt;
+            &lt;p class="tel"&gt;
+              &lt;span class="type"&gt;Alternative number&lt;/span&gt;
+              +44 (0)30 67704237
+            &lt;/p&gt;
+        &lt;/div&gt;
+
+        &lt;p class="comments"&gt;Open Monday to Friday 9am to 5pm. Please email for the quickest response.&lt;/p&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:NewsArticlePresenter/302886</id>
+    <published>2015-08-03T14:06:00+01:00</published>
+    <updated>2015-10-02T15:25:51+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/cde-webinar-how-to-submit-an-effective-proposal-25-september-2015"/>
+    <title>News story: CDE webinar: how to submit an effective proposal 25 September 2015</title>
+    <category label="News story" term="News story"/>
+    <summary>This webinar provided advice on what makes a good Centre for Defence Enterprise (CDE) proposal.</summary>
+    <content type="html">&lt;p&gt;&lt;em&gt;Updated:&lt;/em&gt; Webinar recording now added. &lt;/p&gt;&lt;div class="govspeak"&gt;
+&lt;div class="call-to-action"&gt;
+&lt;p&gt;&lt;a rel="external" href="https://www-eu1.globalmeet.com/w/pub/view?hcid=1630381&amp;amp;id=1859833&amp;amp;type=rec&amp;amp;expires=2015-10-14%2015:33:21.616&amp;amp;digest=Y6hYdrGAxWNCi9/84J2gxlWyRK8%3d"&gt;A recording of this webinar is available to view now&lt;/a&gt;. This link is accessible until 14 October 2015 and you’ll need to sign in with your name, email and company details.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The webinar took place on Friday 25 September 2015 from 10:30am to 11:30am online. &lt;/p&gt;
+
+&lt;p&gt;Bruce Hardie, &lt;abbr title="Centre for Defence Enterprise"&gt;CDE&lt;/abbr&gt;’s Technology Manager, talked through &lt;a href="https://www.gov.uk/cde-portal-what-to-include-in-your-proposal"&gt;what you should include in your research proposal and where to put it on the online portal.&lt;/a&gt; Guests were also able to ask questions after the presentation.&lt;/p&gt;
+
+&lt;div class="contact postal-address" id="contact_1917"&gt;
+  &lt;div class="content"&gt;
+    &lt;h3&gt;Centre for Defence Enterprise&lt;/h3&gt;
+
+    &lt;div class="vcard contact-inner"&gt;
+        &lt;p class="adr"&gt;
+&lt;span class="street-address"&gt;Building R103
+&lt;br&gt;
+Fermi Avenue
+&lt;br&gt;
+&lt;/span&gt;&lt;br&gt;
+&lt;span class="locality"&gt;Harwell Oxford&lt;/span&gt;&lt;br&gt;
+&lt;span class="region"&gt;Oxfordshire&lt;/span&gt;&lt;br&gt;
+&lt;span class="postal-code"&gt;OX11 0QX&lt;/span&gt;
+&lt;/p&gt;
+
+
+        &lt;div class="email-url-number"&gt;
+            &lt;p class="email"&gt;
+              &lt;span class="type"&gt;Email&lt;/span&gt;
+              &lt;a class="email" href="mailto:cde@dstl.gov.uk"&gt;cde@dstl.gov.uk&lt;/a&gt;
+            &lt;/p&gt;
+            &lt;p class="tel"&gt;
+              &lt;span class="type"&gt;Telephone &lt;/span&gt;
+              +44 (0)30 67704236
+            &lt;/p&gt;
+            &lt;p class="tel"&gt;
+              &lt;span class="type"&gt;Alternative number&lt;/span&gt;
+              +44 (0)30 67704237
+            &lt;/p&gt;
+        &lt;/div&gt;
+
+        &lt;p class="comments"&gt;Open Monday to Friday 9am to 5pm. Please email for the quickest response.&lt;/p&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/253304</id>
+    <published>2014-08-07T15:00:00+01:00</published>
+    <updated>2015-09-28T16:19:53+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/insight-read-the-latest-edition"/>
+    <title>Notice: inSIGHT: read the latest edition</title>
+    <category label="Notice" term="Notice"/>
+    <summary>inSIGHT is Dstl’s regular defence, science and technology eBulletin aimed at the supplier community. Read or subscribe to inSIGHT.</summary>
+    <content type="html">&lt;p&gt;&lt;em&gt;Updated:&lt;/em&gt; New edition of inSIGHT added. &lt;/p&gt;&lt;div class="govspeak"&gt;&lt;p&gt;inSIGHT is a regular defence, science and technology eBulletin written for the Defence Science and Technology Laboratory’s (&lt;abbr title="Defence Science and Technology Laboratory"&gt;Dstl&lt;/abbr&gt;’s) external suppliers. It covers the latest science and technology news and events, developments in &lt;a href="https://www.gov.uk/government/collections/dstls-areas-of-work-programmes-and-project-portfolios"&gt;&lt;abbr title="Defence Science and Technology Laboratory"&gt;Dstl&lt;/abbr&gt;’s programmes&lt;/a&gt;, information about new and existing contracts and case studies. &lt;/p&gt;
+
+&lt;div class="call-to-action"&gt;
+&lt;p&gt;Subscription to inSIGHT is free. Subscribe to inSIGHT by emailing &lt;a href="mailto:insight@dstl.gov.uk"&gt;insight@dstl.gov.uk&lt;/a&gt; including your name, your email address and your organisation’s name. It would also be useful to know what areas of &lt;abbr title="Defence Science and Technology Laboratory"&gt;Dstl&lt;/abbr&gt;’s work you are interested in.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;abbr title="Defence Science and Technology Laboratory"&gt;Dstl&lt;/abbr&gt; will only collect and use the information given on this subscription for the purposes of email communications. We will not pass on your details to any third party without your consent. &lt;abbr title="Defence Science and Technology Laboratory"&gt;Dstl&lt;/abbr&gt; is committed to ensuring that all your personal data, including that of a sensitive nature, is used with your consent, respect for your privacy and only for the limited, clearly stated purposes above. This also accords with our legal obligations under the &lt;a href="https://www.gov.uk/data-protection"&gt;Data Protection Act&lt;/a&gt;. By subscribing to the eBulletin, you are confirming that you understand this statement and that you agree that your personal data can be used as described. To unsubscribe at any time, you can either click the unsubscribe link within the inSIGHT eBulletin or email &lt;a href="mailtoinsight@dstl.gov.uk?subject=Unsubscribe%20to%20inSIGHT"&gt;insight@dstl.gov.uk&lt;/a&gt; with the title ‘Unsubscribe to inSIGHT’.&lt;/p&gt;
+
+&lt;figure class="image embedded"&gt;
+  &lt;div class="img"&gt;&lt;img alt="inSight image featuring coloured square brackets" src="https://assets.digital.cabinet-office.gov.uk/government/uploads/system/uploads/image_data/file/29400/960x640Insight_Banner.jpg"&gt;&lt;/div&gt;
+&lt;/figure&gt;
+
+&lt;h2 id="previous-editions-of-insight"&gt;Previous editions of inSIGHT&lt;/h2&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://us5.campaign-archive1.com/?u=a5a2a1131e612711f02b96e2c&amp;amp;id=97b330f905&amp;amp;e"&gt;August 2014&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://us5.campaign-archive1.com/?u=a5a2a1131e612711f02b96e2c&amp;amp;id=17ba0c0bda&amp;amp;e="&gt;September 2014&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://us5.campaign-archive2.com/?u=a5a2a1131e612711f02b96e2c&amp;amp;id=4431c0e5e1&amp;amp;e="&gt;November 2014&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://us5.campaign-archive2.com/?u=a5a2a1131e612711f02b96e2c&amp;amp;id=6dbf988ea3&amp;amp;e="&gt;December 2014&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://us5.campaign-archive1.com/?u=a5a2a1131e612711f02b96e2c&amp;amp;id=8d463ccee4&amp;amp;e=%20"&gt;January 2015&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://us5.campaign-archive2.com/?u=a5a2a1131e612711f02b96e2c&amp;amp;id=0a660bd963&amp;amp;e=%20"&gt;February 2015&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://us5.campaign-archive1.com/?u=a5a2a1131e612711f02b96e2c&amp;amp;id=9d9a1c3fce&amp;amp;e="&gt;March 2015&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://us5.campaign-archive2.com/?u=a5a2a1131e612711f02b96e2c&amp;amp;id=fe30e70f70&amp;amp;e=%20"&gt;June 2015&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://us5.campaign-archive2.com/?u=a5a2a1131e612711f02b96e2c&amp;amp;id=af1b951542&amp;amp;e=%20"&gt;July 2015&lt;/a&gt; &lt;/p&gt;
+
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:NewsArticlePresenter/307972</id>
+    <published>2015-09-28T11:53:24+01:00</published>
+    <updated>2015-09-28T11:53:24+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/dstl-adds-to-open-source-software"/>
+    <title>Press release: Dstl adds to open source software</title>
+    <category label="Press release" term="Press release"/>
+    <summary>The Defence Science and Technology Laboratory (Dstl) looks for collaborators for its latest software released into the open source domain.</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The entity extraction framework – known as Baleen – can automatically extract information from unstructured and semi-structured text. It tries to identify and extract entities from the text, such as people, locations, organisations and dates.&lt;/p&gt;
+
+&lt;p&gt;Baleen has been under development for a number of years; &lt;abbr title="Defence Science and Technology Laboratory"&gt;Dstl&lt;/abbr&gt; is now seeking community contributions that can feed back into the software, improving the quality of the code and extending its capability.&lt;/p&gt;
+
+&lt;p&gt;There are similar projects already in the public domain, but this provides an end-to-end entity extraction capability based on Apache &lt;abbr title="Unstructured Information Management Architecture"&gt;UIMA&lt;/abbr&gt; (Unstructured Information Management Architecture) which is becoming a widely used and accepted framework. &lt;/p&gt;
+
+&lt;p&gt;&lt;abbr title="Defence Science and Technology Laboratory"&gt;Dstl&lt;/abbr&gt;’s James Baker says he hopes the text analytics developer community will help develop the software further:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p class="last-child"&gt;We are releasing the core framework and a number of components of Baleen onto Github.com for the community to use, adapt and improve. We hope suppliers, members of academia and individuals will help take this further and develop capabilities which we have not yet uncovered, as well as find a use for it in their own work.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;abbr title="Defence Science and Technology Laboratory"&gt;Dstl&lt;/abbr&gt;’s code can be found on the &lt;a rel="external" href="http://github.com/dstl/baleen"&gt;Github site&lt;/a&gt;. For further information on the technical side, email: &lt;a href="mailto:oss@dstl.gov.uk?Subject=Baleen%20Enquiry%20via%20GOV.UK"&gt;oss@dstl.gov.uk&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class="contact " id="contact_1970"&gt;
+  &lt;div class="content"&gt;
+    &lt;h3&gt;
+&lt;abbr title="Defence Science and Technology Laboratory"&gt;Dstl&lt;/abbr&gt; Media Enquiries&lt;/h3&gt;
+
+    &lt;div class="vcard contact-inner"&gt;
+
+        &lt;div class="email-url-number"&gt;
+            &lt;p class="email"&gt;
+              &lt;span class="type"&gt;Email&lt;/span&gt;
+              &lt;a class="email" href="mailto:press@dstl.gov.uk"&gt;press@dstl.gov.uk&lt;/a&gt;
+            &lt;/p&gt;
+            &lt;p class="tel"&gt;
+              &lt;span class="type"&gt;Media enquiries&lt;/span&gt;
+              01980 658666
+            &lt;/p&gt;
+            &lt;p class="tel"&gt;
+              &lt;span class="type"&gt;Out of hours&lt;/span&gt;
+              07901 892660
+            &lt;/p&gt;
+        &lt;/div&gt;
+
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:PublicationesquePresenter/231544</id>
+    <published>2014-06-30T13:09:00+01:00</published>
+    <updated>2015-09-23T12:17:17+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/publications/cde-enduring-challenge-competition"/>
+    <title>Notice: CDE enduring competition</title>
+    <category label="Notice" term="Notice"/>
+    <summary>The Centre for Defence Enterprise's enduring competition for research funding (previously the 'open call') is always open. </summary>
+    <content type="html">&lt;p&gt;&lt;em&gt;Updated:&lt;/em&gt; Update competition dates&lt;/p&gt;&lt;div class="govspeak"&gt;
+&lt;div class="call-to-action"&gt;
+&lt;p&gt;Proposals to be assessed during November 2015 must be submitted by 5pm on 11 November 2015 &lt;a href="https://www.gov.uk/cde-portal-submit-a-proposal"&gt;using the &lt;abbr title="Centre for Defence Enterprise"&gt;CDE&lt;/abbr&gt; online portal&lt;/a&gt; with ‘enduring competition’ as a prefix in your title.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The enduring competition is continually open to all highly innovative research ideas that challenge existing conventions and have a high potential benefit for the military end user. &lt;/p&gt;
+
+&lt;p&gt;Read the competition summary for more information, including the 9 challenge areas, monthly closing dates and submission guidance.&lt;/p&gt;
+
+&lt;div class="contact postal-address" id="contact_1917"&gt;
+  &lt;div class="content"&gt;
+    &lt;h3&gt;Centre for Defence Enterprise&lt;/h3&gt;
+
+    &lt;div class="vcard contact-inner"&gt;
+        &lt;p class="adr"&gt;
+&lt;span class="street-address"&gt;Building R103
+&lt;br&gt;
+Fermi Avenue
+&lt;br&gt;
+&lt;/span&gt;&lt;br&gt;
+&lt;span class="locality"&gt;Harwell Oxford&lt;/span&gt;&lt;br&gt;
+&lt;span class="region"&gt;Oxfordshire&lt;/span&gt;&lt;br&gt;
+&lt;span class="postal-code"&gt;OX11 0QX&lt;/span&gt;
+&lt;/p&gt;
+
+
+        &lt;div class="email-url-number"&gt;
+            &lt;p class="email"&gt;
+              &lt;span class="type"&gt;Email&lt;/span&gt;
+              &lt;a class="email" href="mailto:cde@dstl.gov.uk"&gt;cde@dstl.gov.uk&lt;/a&gt;
+            &lt;/p&gt;
+            &lt;p class="tel"&gt;
+              &lt;span class="type"&gt;Telephone &lt;/span&gt;
+              +44 (0)30 67704236
+            &lt;/p&gt;
+            &lt;p class="tel"&gt;
+              &lt;span class="type"&gt;Alternative number&lt;/span&gt;
+              +44 (0)30 67704237
+            &lt;/p&gt;
+        &lt;/div&gt;
+
+        &lt;p class="comments"&gt;Open Monday to Friday 9am to 5pm. Please email for the quickest response.&lt;/p&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:NewsArticlePresenter/307562</id>
+    <published>2015-09-22T15:51:00+01:00</published>
+    <updated>2015-09-22T15:51:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/battle-winning-science-and-technology-webinar"/>
+    <title>News story: Battle winning science and technology webinar</title>
+    <category label="News story" term="News story"/>
+    <summary>The Defence Science and Technology Laboratory's (Dstl) new Platform Systems Division is hosting a webinar targeted at suppliers</summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;The Platform Systems Division contracts around 60% of its £244 million work to the supply base. This webinar will focus on the Division’s science and technology capability areas, size of business and contracting value. There will be the opportunity to ask questions using the online webinar tool and see the routes and mechanisms for future contracts.&lt;/p&gt;
+
+&lt;p&gt;Taking place on Tuesday 29 September, 13.30 - 14.30, the webinar will aim to provide suppliers with a clear route to work with &lt;abbr title="Defence Science and Technology Laboratory"&gt;Dstl&lt;/abbr&gt; on defence and security projects, and in particular the projects that sit within the Platform Systems Division.&lt;/p&gt;
+
+&lt;p&gt;If you would like to view the webinar, please register on &lt;a rel="external" href="https://www.eventbrite.co.uk/e/webinar-battle-winning-science-technology-opportunities-to-get-involved-tickets-18439120907"&gt;Eventbrite&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;A recording of the webinar will be made available afterwards for those not able to join on 29 September. &lt;/p&gt;
+
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:NewsArticlePresenter/306068</id>
+    <published>2015-09-21T11:13:51+01:00</published>
+    <updated>2015-09-21T11:13:51+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/new-research-shows-need-for-emergency-responders-to-carry-blood"/>
+    <title>Press release: New research shows need for emergency responders to carry blood</title>
+    <category label="Press release" term="Press release"/>
+    <summary>Dstl research shows that using blood products to treat severely injured patients before they reach hospital improves chances of survival. </summary>
+    <content type="html">&lt;div class="govspeak"&gt;&lt;p&gt;New research carried out by Ministry of Defence (&lt;abbr title="Ministry of Defence"&gt;MOD&lt;/abbr&gt;) scientists at the Defence Science and Technology Laboratory (&lt;abbr title="Defence Science and Technology Laboratory"&gt;Dstl&lt;/abbr&gt;), with the Royal Centre for Defence Medicine (&lt;abbr title="Royal Centre for Defence Medicine"&gt;RCDM&lt;/abbr&gt;), has demonstrated the need for emergency first responders to carry blood products. The research has provided the first evidence that the use of blood products (red blood cells and plasma) to treat severely injured patients before they reach hospital significantly improves their chances of survival. &lt;/p&gt;
+
+&lt;p&gt;In 2008 the medical evacuation response team (&lt;abbr title="medical evacuation response team"&gt;MERT&lt;/abbr&gt;) in Afghanistan started carrying blood products to injured personnel on the frontline thanks to the development of special refrigeration units on the Chinook helicopters. This emergency care procedure, coupled with other measures, has been credited with saving a number of lives in Afghanistan. &lt;/p&gt;
+
+&lt;p&gt;Dr Malcolm Russell MBE is the Medical Director of the Kent, Surrey &amp;amp; Sussex Air Ambulance Trust; he is also an ex-military doctor, and former Senior Lecturer in Military Pre-hospital Emergency Medicine. Dr Russell says: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p class="last-child"&gt;Clinical experience from military operations over the last 10-15 years has suggested that administering blood products to patients who have suffered substantial blood loss due to major trauma ought to be helpful in reducing shock and improving survival. Two years ago, Kent, Surrey &amp;amp; Sussex Air Ambulance took the decision to carry packed red blood cells on our helicopters in our quest to improve the outcome for our civilian major trauma patients. Earlier this year, we were the first UK air ambulance to carry freeze-dried plasma as well as packed red blood cells and we carefully balance the use of these products as we resuscitate our major trauma patients.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The latest &lt;abbr title="Defence Science and Technology Laboratory"&gt;Dstl&lt;/abbr&gt; and &lt;abbr title="Royal Centre for Defence Medicine"&gt;RCDM&lt;/abbr&gt; research proves the benefits of administering blood products to severely injured patients before they reach hospital and provides much-needed evidence for the continued use of this procedure. It could also have an impact for civilian first responders such as ambulance and air ambulance crew. Currently only a few air ambulance services in the UK have the mandate, staff and systems required to carry blood products. &lt;/p&gt;
+
+&lt;p&gt;Dr Russell continues: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p class="last-child"&gt;We feel that the administration of blood products has been really helpful for major trauma patients, though proving that is very difficult in practice. Consequently, we were lacking the objective evidence that is essential to consolidate the clinical practice and bring it into wider use. We therefore welcome this excellent piece of research which now provides exactly that evidence we’ve been looking for and which supports our clinical intuition, judgement and subjective evaluation of clinical evidence. This combined evidence now makes the case that giving blood products to this patient group gives real benefit to them and is therefore a practice that should be continued and developed further.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Dr Emrys Kirkman, Principal Scientist at &lt;abbr title="Defence Science and Technology Laboratory"&gt;Dstl&lt;/abbr&gt; says: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p class="last-child"&gt;Badly injured people often lose the ability to form a blood clot properly, just when they need it most. Our research provides the scientific foundation for the premise that giving blood products before seriously injured patients reach hospital could help save lives as it improves the ability to form blood clots. While this represents emerging practice based on clinical common sense nobody knew whether it actually helped, this is the first study to prove the benefits. We hope that this research will encourage decision makers to think again about the possibilities for both military and civilian first responders to carry blood products.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class="call-to-action"&gt;
+&lt;p&gt;Read the full &lt;a rel="external" href="http://journals.lww.com/shockjournal/Fulltext/2015/08001/Evaluation_of_Prehospital_Blood_Products_to.20.aspx"&gt;research paper&lt;/a&gt; which was published in the journal SHOCK.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class="contact " id="contact_1970"&gt;
+  &lt;div class="content"&gt;
+    &lt;h3&gt;
+&lt;abbr title="Defence Science and Technology Laboratory"&gt;Dstl&lt;/abbr&gt; Media Enquiries&lt;/h3&gt;
+
+    &lt;div class="vcard contact-inner"&gt;
+
+        &lt;div class="email-url-number"&gt;
+            &lt;p class="email"&gt;
+              &lt;span class="type"&gt;Email&lt;/span&gt;
+              &lt;a class="email" href="mailto:press@dstl.gov.uk"&gt;press@dstl.gov.uk&lt;/a&gt;
+            &lt;/p&gt;
+            &lt;p class="tel"&gt;
+              &lt;span class="type"&gt;Media enquiries&lt;/span&gt;
+              01980 658666
+            &lt;/p&gt;
+            &lt;p class="tel"&gt;
+              &lt;span class="type"&gt;Out of hours&lt;/span&gt;
+              07901 892660
+            &lt;/p&gt;
+        &lt;/div&gt;
+
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:NewsArticlePresenter/306682</id>
+    <published>2015-09-16T10:23:00+01:00</published>
+    <updated>2015-09-18T17:23:22+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/high-resilience-receivers-for-military-networks"/>
+    <title>News story: High-resilience receivers for military networks</title>
+    <category label="News story" term="News story"/>
+    <summary>Case study from IQHQ who showcased at DSEI 2015.
+</summary>
+    <content type="html">&lt;p&gt;&lt;em&gt;Updated:&lt;/em&gt; Link to DSEI presentation slides now available&lt;/p&gt;&lt;div class="govspeak"&gt;&lt;p&gt;&lt;a rel="external" href="http://www.iqhq.co.uk/"&gt;IQHQ&lt;/a&gt; was funded by the &lt;a href="https://www.gov.uk/government/organisations/centre-for-defence-enterprise"&gt;Centre for Defence Enterprise (&lt;abbr title="Centre for Defence Enterprise"&gt;CDE&lt;/abbr&gt;)&lt;/a&gt; to research and develop a very high-resilience radio communication receiver for strategic and critical military infrastructure, such as military backbone networks and intelligence, surveillance and reconnaissance (&lt;abbr title="intelligence, surveillance and reconnaissance"&gt;ISR&lt;/abbr&gt;) datalinks. &lt;/p&gt;
+
+&lt;p&gt;The dynamic, adaptive and resilient receiver design has a high immunity to adjacent and co-channel interference and several types of intentional jamming, making it particularly suited for military use.&lt;/p&gt;
+
+&lt;p&gt;IQHQ is now supplying prototypes of these units to key customers and plans to expand the technology into core programmes. The company is also developing related technologies using these receiver designs as building blocks for military, radio-based capabilities. &lt;/p&gt;
+
+&lt;p&gt;Maurice Husband, CEO of IQHQ says:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p class="last-child"&gt;As an SME in the start-up mode, &lt;abbr title="Centre for Defence Enterprise"&gt;CDE&lt;/abbr&gt; provided the funding for us to develop advanced technology, which is now being supported by MOD and will enter service in the next 12 months.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Founded in 2009 and based in Malvern, Worcestershire, IQHQ develops state-of-the-art military-grade radio technologies. It has a range of patents and inventions in key technologies such as very high-resilience receiver design, spectrum management and through-wall penetration.&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.slideshare.net/MOD_CDE/highresilience-receivers-for-military-networks"&gt;View the presentation slides&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id="about-cde"&gt;About &lt;abbr title="Centre for Defence Enterprise"&gt;CDE&lt;/abbr&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;&lt;abbr title="Centre for Defence Enterprise"&gt;CDE&lt;/abbr&gt; funds novel, high-risk, high-potential-benefit research. We work with the broadest possible range of science and technology providers, including academia and small companies, to develop cost-effective capabilities for UK armed forces and national security.&lt;/p&gt;
+
+&lt;p&gt;&lt;abbr title="Centre for Defence Enterprise"&gt;CDE&lt;/abbr&gt; is part of &lt;a href="https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory"&gt;&lt;abbr title="Defence Science and Technology Laboratory"&gt;Dstl&lt;/abbr&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class="contact postal-address" id="contact_1917"&gt;
+  &lt;div class="content"&gt;
+    &lt;h3&gt;Centre for Defence Enterprise&lt;/h3&gt;
+
+    &lt;div class="vcard contact-inner"&gt;
+        &lt;p class="adr"&gt;
+&lt;span class="street-address"&gt;Building R103
+&lt;br&gt;
+Fermi Avenue
+&lt;br&gt;
+&lt;/span&gt;&lt;br&gt;
+&lt;span class="locality"&gt;Harwell Oxford&lt;/span&gt;&lt;br&gt;
+&lt;span class="region"&gt;Oxfordshire&lt;/span&gt;&lt;br&gt;
+&lt;span class="postal-code"&gt;OX11 0QX&lt;/span&gt;
+&lt;/p&gt;
+
+
+        &lt;div class="email-url-number"&gt;
+            &lt;p class="email"&gt;
+              &lt;span class="type"&gt;Email&lt;/span&gt;
+              &lt;a class="email" href="mailto:cde@dstl.gov.uk"&gt;cde@dstl.gov.uk&lt;/a&gt;
+            &lt;/p&gt;
+            &lt;p class="tel"&gt;
+              &lt;span class="type"&gt;Telephone &lt;/span&gt;
+              +44 (0)30 67704236
+            &lt;/p&gt;
+            &lt;p class="tel"&gt;
+              &lt;span class="type"&gt;Alternative number&lt;/span&gt;
+              +44 (0)30 67704237
+            &lt;/p&gt;
+        &lt;/div&gt;
+
+        &lt;p class="comments"&gt;Open Monday to Friday 9am to 5pm. Please email for the quickest response.&lt;/p&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:NewsArticlePresenter/306735</id>
+    <published>2015-09-16T08:00:00+01:00</published>
+    <updated>2015-09-18T17:22:52+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/developing-realistic-trauma-simulation-models"/>
+    <title>News story: Developing realistic trauma simulation models</title>
+    <category label="News story" term="News story"/>
+    <summary>Case study from Swansea-based Trauma Simulation Limited who showcased at DSEI 2015.
+</summary>
+    <content type="html">&lt;p&gt;&lt;em&gt;Updated:&lt;/em&gt; Link to DSEI presentation slides now available &lt;/p&gt;&lt;div class="govspeak"&gt;&lt;p&gt;Trauma Simulation Limited was funded by the &lt;a href="https://www.gov.uk/government/organisations/centre-for-defence-enterprise"&gt;Centre for Defence Enterprise (&lt;abbr title="Centre for Defence Enterprise"&gt;CDE&lt;/abbr&gt;)&lt;/a&gt; to develop a realistic trauma simulation model for massive lower limb and pelvic injury. The model could be used to help military medical personnel, from first responders to surgeons, train for how to respond to major battlefield injuries.   &lt;/p&gt;
+
+&lt;p&gt;The model reproduces patterns of injury and bleeding encountered by surgical teams in combat zones and uses advanced materials to simulate the properties of different human tissue. The model was created using a silicone ‘copy’ of a 3D-printed master and based on CT scans of a former patient. &lt;/p&gt;
+
+&lt;p&gt;Professor Ian Pallister, Founder of Trauma Simulation says:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p class="last-child"&gt;The support from &lt;abbr title="Centre for Defence Enterprise"&gt;CDE&lt;/abbr&gt; has allowed the development of models, which I had envisaged, but had been impossible to make a reality. In due course, these models will be distributed commercially and their use may help save the lives of those injured in future conflicts.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Trauma Simulation is a Swansea University spin-out, founded as a result of &lt;a rel="external" href="http://webarchive.nationalarchives.gov.uk/20140410091116/http://www.science.mod.uk/events/event_detail.aspx?eventid=260"&gt;‘the medic of the future’ &lt;abbr title="Centre for Defence Enterprise"&gt;CDE&lt;/abbr&gt; themed competition&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.slideshare.net/MOD_CDE/developing-realistic-trauma-simulation-models"&gt;View the presentation slides&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id="about-cde"&gt;About &lt;abbr title="Centre for Defence Enterprise"&gt;CDE&lt;/abbr&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;&lt;abbr title="Centre for Defence Enterprise"&gt;CDE&lt;/abbr&gt; funds novel, high-risk, high-potential-benefit research. We work with the broadest possible range of science and technology providers, including academia and small companies, to develop cost-effective capabilities for UK armed forces and national security.&lt;/p&gt;
+
+&lt;p&gt;&lt;abbr title="Centre for Defence Enterprise"&gt;CDE&lt;/abbr&gt; is part of &lt;a href="https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory"&gt;&lt;abbr title="Defence Science and Technology Laboratory"&gt;Dstl&lt;/abbr&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class="contact postal-address" id="contact_1917"&gt;
+  &lt;div class="content"&gt;
+    &lt;h3&gt;Centre for Defence Enterprise&lt;/h3&gt;
+
+    &lt;div class="vcard contact-inner"&gt;
+        &lt;p class="adr"&gt;
+&lt;span class="street-address"&gt;Building R103
+&lt;br&gt;
+Fermi Avenue
+&lt;br&gt;
+&lt;/span&gt;&lt;br&gt;
+&lt;span class="locality"&gt;Harwell Oxford&lt;/span&gt;&lt;br&gt;
+&lt;span class="region"&gt;Oxfordshire&lt;/span&gt;&lt;br&gt;
+&lt;span class="postal-code"&gt;OX11 0QX&lt;/span&gt;
+&lt;/p&gt;
+
+
+        &lt;div class="email-url-number"&gt;
+            &lt;p class="email"&gt;
+              &lt;span class="type"&gt;Email&lt;/span&gt;
+              &lt;a class="email" href="mailto:cde@dstl.gov.uk"&gt;cde@dstl.gov.uk&lt;/a&gt;
+            &lt;/p&gt;
+            &lt;p class="tel"&gt;
+              &lt;span class="type"&gt;Telephone &lt;/span&gt;
+              +44 (0)30 67704236
+            &lt;/p&gt;
+            &lt;p class="tel"&gt;
+              &lt;span class="type"&gt;Alternative number&lt;/span&gt;
+              +44 (0)30 67704237
+            &lt;/p&gt;
+        &lt;/div&gt;
+
+        &lt;p class="comments"&gt;Open Monday to Friday 9am to 5pm. Please email for the quickest response.&lt;/p&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.gov.uk,2005:NewsArticlePresenter/306739</id>
+    <published>2015-09-16T08:00:00+01:00</published>
+    <updated>2015-09-18T17:19:11+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gov.uk/government/news/innovative-biometric-voice-verification-system-for-mobile-devices"/>
+    <title>News story: Innovative biometric voice verification system for mobile devices</title>
+    <category label="News story" term="News story"/>
+    <summary>Case study from Nottingham-based Voicekey Limited who showcased at DSEI 2015.</summary>
+    <content type="html">&lt;p&gt;&lt;em&gt;Updated:&lt;/em&gt; Link to DSEI presentation slides now available&lt;/p&gt;&lt;div class="govspeak"&gt;&lt;p&gt;&lt;a rel="external" href="http://www.voicekey.co.uk/"&gt;Voicekey Limited&lt;/a&gt; received funding from the &lt;a href="https://www.gov.uk/government/organisations/centre-for-defence-enterprise"&gt;Centre for Defence Enterprise (&lt;abbr title="Centre for Defence Enterprise"&gt;CDE&lt;/abbr&gt;)&lt;/a&gt; to develop an innovative on-device, biometric voice verification system. The proof-of-concept solution enables bring-your-own and commercial-off-the-shelf mobile enterprise devices to securely access remote IT systems. &lt;/p&gt;
+
+&lt;p&gt;On the back of this successful contract, Voicekey was accepted as a member of the &lt;a rel="external" href="http://www.csiis.qinetiq.com/Pages/default.aspx"&gt;&lt;abbr title="Command, Control, Communications, Computing, Intelligence, Surveillance and Reconnaissance - Secure Information Infrastructure and Services"&gt;CSIIS&lt;/abbr&gt; consortium&lt;/a&gt; of UK &lt;abbr title="Ministry of Defence"&gt;MOD&lt;/abbr&gt; contractors.&lt;/p&gt;
+
+&lt;p&gt;Tony Allen, CEO of Voicekey says:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p class="last-child"&gt;The funding and support made available under this &lt;abbr title="Centre for Defence Enterprise"&gt;CDE&lt;/abbr&gt; project enabled the company to develop an innovative and world-leading, on-device voice biometric identity management solution.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Established in 2010 and based in Nottingham, Voicekey is an innovative voice biometrics solutions company.&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel="external" href="http://www.slideshare.net/MOD_CDE/innovative-biometric-voice-verification-system-for-mobile-devices"&gt;View the presentation slides&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id="about-cde"&gt;About &lt;abbr title="Centre for Defence Enterprise"&gt;CDE&lt;/abbr&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;&lt;abbr title="Centre for Defence Enterprise"&gt;CDE&lt;/abbr&gt; funds novel, high-risk, high-potential-benefit research. We work with the broadest possible range of science and technology providers, including academia and small companies, to develop cost-effective capabilities for UK armed forces and national security.&lt;/p&gt;
+
+&lt;p&gt;&lt;abbr title="Centre for Defence Enterprise"&gt;CDE&lt;/abbr&gt; is part of &lt;a href="https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory"&gt;&lt;abbr title="Defence Science and Technology Laboratory"&gt;Dstl&lt;/abbr&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class="contact postal-address" id="contact_1917"&gt;
+  &lt;div class="content"&gt;
+    &lt;h3&gt;Centre for Defence Enterprise&lt;/h3&gt;
+
+    &lt;div class="vcard contact-inner"&gt;
+        &lt;p class="adr"&gt;
+&lt;span class="street-address"&gt;Building R103
+&lt;br&gt;
+Fermi Avenue
+&lt;br&gt;
+&lt;/span&gt;&lt;br&gt;
+&lt;span class="locality"&gt;Harwell Oxford&lt;/span&gt;&lt;br&gt;
+&lt;span class="region"&gt;Oxfordshire&lt;/span&gt;&lt;br&gt;
+&lt;span class="postal-code"&gt;OX11 0QX&lt;/span&gt;
+&lt;/p&gt;
+
+
+        &lt;div class="email-url-number"&gt;
+            &lt;p class="email"&gt;
+              &lt;span class="type"&gt;Email&lt;/span&gt;
+              &lt;a class="email" href="mailto:cde@dstl.gov.uk"&gt;cde@dstl.gov.uk&lt;/a&gt;
+            &lt;/p&gt;
+            &lt;p class="tel"&gt;
+              &lt;span class="type"&gt;Telephone &lt;/span&gt;
+              +44 (0)30 67704236
+            &lt;/p&gt;
+            &lt;p class="tel"&gt;
+              &lt;span class="type"&gt;Alternative number&lt;/span&gt;
+              +44 (0)30 67704237
+            &lt;/p&gt;
+        &lt;/div&gt;
+
+        &lt;p class="comments"&gt;Open Monday to Friday 9am to 5pm. Please email for the quickest response.&lt;/p&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+  </entry>
+</feed>

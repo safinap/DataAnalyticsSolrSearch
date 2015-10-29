@@ -1,0 +1,29 @@
+spring.datasource:
+ url: "jdbc:postgresql://localhost/postgres"
+ username: postgres
+ password: pass_234
+ driverClassName: org.postgresql.Driver
+
+server:
+ port: 8090
+ context-path: "/dstl"
+
+spring.jpa:
+ hibernate.dialect: hibernate.dialect.PostgreSQLDialect
+ hibernate.ddl-auto: validate
+ database: POSTGRESQL
+ show-sql: false
+ 
+spring.data:
+ solr.host: "http://localhost:8983/solr"
+ 
+spring.application:
+ name: DSTL
+ 
+alchemyapi.rest:
+ url: "http://access.alchemyapi.com/calls/url/"
+
+logging.level:
+ com.mastek.dstl=TRACE
+ org.springframework.web=ERROR
+ org.hibernate=ERROR

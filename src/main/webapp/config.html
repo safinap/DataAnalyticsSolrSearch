@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>DSTL</title>
+<script>
+ (function() {
+  if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+   var d = document, c = "appendChild", a = d.createElement("style");
+   a[c](d.createTextNode("@-ms-viewport{width:auto!important}"));
+   d.getElementsByTagName("head")[0][c](a);
+  }
+ })();
+</script>
+
+<!--[if gt IE 8]><!-->
+<link href="assets/govuk/stylesheets/govuk-template.css" media="screen" rel="stylesheet">
+<link href="assets/govuk/stylesheets/govuk-template-print.css" media="print" rel="stylesheet">
+<link href="assets/govuk/stylesheets/fonts.css" media="all" rel="stylesheet">
+<link rel="shortcut icon" href="assets/govuk/images/favicon.ico" type="image/x-icon">
+
+<!-- For third-generation iPad with high-resolution Retina display: -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/govuk/images/apple-touch-icon-144x144.png">
+
+<!-- For iPhone with high-resolution Retina display: -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/govuk/images/apple-touch-icon-114x114.png">
+
+<!-- For first- and second-generation iPad: -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/govuk/images/apple-touch-icon-72x72.png">
+
+<!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
+<link rel="apple-touch-icon-precomposed" href="assets/govuk/images/apple-touch-icon-57x57.png">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:image" content="assets/govuk/images/opengraph-image.png">
+
+<!--[if gt IE 8]><!-->
+<link href="assets/stylesheets/main.css" media="all" rel="stylesheet">
+<!--<![endif]-->
+<!--[if IE 8]><link href="assets/stylesheets/main-ie8.css" media="all" rel="stylesheet"><![endif]-->
+
+
+<!-- print styles -->
+<link href="assets/stylesheets/print.css" media="print" rel="stylesheet">
+
+</head>
+
+<body>
+
+ <script>
+  document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');
+ </script>
+
+
+
+
+
+ <!-- Header -->
+ <div id="skiplink-container">
+  <div>
+   <a href="#content" class="skiplink">Skip to main content</a>
+  </div>
+ </div>
+
+ <div id="global-cookie-message">
+  <div class="outer-block">
+   <div class="inner-block">
+    <p>
+     GOV.UK uses cookies to make the site simpler. <a href="https://www.gov.uk/help/cookies">Find out more about cookies</a>
+    </p>
+   </div>
+  </div>
+ </div>
+
+ <header role="banner" id="global-header" class="with-proposition">
+
+  <div class="header-wrapper">
+
+   <div class="header-global"></div>
+
+   <div class="header-proposition">
+
+    <div class="content">
+     <a href="#proposition-links" class="js-header-toggle menu">Menu</a>
+     <nav id="proposition-menu">
+      <a href="/dstl/index.html" id="proposition-name">DSTL</a>
+      <ul id="proposition-links">
+       <li><a class="active" href="config.html">Configuration</a></li>
+       <li><a href="subscription.html">Subscription</a></li>
+       <li><a href="index.html">Offline Search</a></li>
+      </ul>
+     </nav>
+    </div>
+   </div>
+  </div>
+ </header>
+
+ <div id="global-header-bar">
+  <div class="inner-block">
+   <div class="header-bar"></div>
+  </div>
+ </div>
+ <!-- End -->
+
+ <main id="content" role="main">
+ <div class="text">
+  <h1 class="form-title heading-large">Source URL Configuration</h1>
+ </div>
+
+ <style>
+#button_pro input {
+	margin-bottom: 10px
+}
+</style>
+
+ <form class="form">
+  <div class="form-group">
+   <label for="customer-reference"> <span class="form-label">Enter one or more source URLs</span> <span class="form-hint">The content on these pages will be available for offline search after crawling.</span>
+   </label>
+   <div id="button_pro">
+    <div class="space" id="input_1">
+     <input id="input_1" type="text" name="sites[]" class="form-control left txt"> <img class="add right" src="home_files/add.png">
+    </div>
+   </div>
+  </div>
+  <div class="form-group">
+   <button type="submit" class="button but" id="url_save">Register</button>
+  </div>
+ </form>
+
+ <div class="text">
+  <p>Crawl through the URLs and extract the contents for offline search.</p>
+ </div>
+
+ <div hidden="true" id="result"></div>
+ <div id="admin-size">
+  <a class="button but" href="#" role="button" id="crawl_button">Crawl and Extract</a>
+ </div>
+
+ </main>
+
+ <footer class="group js-footer" id="footer" role="contentinfo">
+  <div class="footer-wrapper">
+   <div class="footer-meta"></div>
+  </div>
+ </footer>
+
+ <!--end footer-->
+
+ <div id="global-app-error" class="app-error hidden"></div>
+
+ <script type="text/javascript" src="home_files/jquery-1.11.3-92dc85369a3bf658db02f5a3f52231ccf961a37627ae12486f4ce34eba12a3dd.js"></script>
+ <script type="text/javascript">
+  $(document).ready(function() {
+   $("#crawl_button").click(function() {
+    $.ajax({
+     type : "GET",
+     url : "/dstl/configure/crawlExtract",
+     success : function(response) {
+      if (response.status == 'SUCESS') {
+       $("#result").text("Crawling, Entity Extraction and Document store/index done Successfully.");
+      } else {
+       $("#result").text("There is an error occurred. Please contact Administrator.");
+      }
+
+      $("#result").show();
+     },
+     error : function(error) {
+      //alert(error.responseText);
+     }
+    });
+   });
+  });
+
+  $('document').ready(function() {
+   var id = 2, txt_box;
+   var index = 1;
+   $('#button_pro').on('click', '.add', function() {
+    $(this).remove();
+    txt_box = '<div class="space" id="input_'+id+'" ><input type="text" name="sites[]" class="form-control left txt"/><img src="home_files/remove.png" class="remove"/><img class="add right" src="home_files/add.png" /></div>';
+    $("#button_pro").append(txt_box);
+    id++;
+    index++;
+   });
+
+   $('#button_pro').on('click', '.remove', function() {
+    var parent = $(this).parent().prev().attr("id");
+    var parent_im = $(this).parent().attr("id");
+    $("#" + parent_im).slideUp('medium', function() {
+     $("#" + parent_im).remove();
+     if ($('.add').length < 1) {
+      $("#" + parent).append('<img src="home_files/add.png" class="add right"/> ');
+     }
+    });
+   });
+
+   $("#url_save").click(function() {
+    var text = new Array();
+    $("input[name='sites[]']").each(function() {
+     text.push($(this).val());
+    });
+
+    $.ajax({
+     type : "POST",
+     url : "/dstl/configure/source-url",
+     dataType : "json",
+     contentType : "application/json",
+     data : JSON.stringify(text),
+     success : function(response) {
+      if (response.status == 'SUCESS') {
+       $("#result").text("URLs registration done sucessfully.");
+      } else {
+       $("#result").text("There is an error occurred. Please contact Administrator.");
+      }
+
+      $("#result").show();
+     },
+     error : function(error) {
+      //alert(error.responseText);
+     }
+    });
+   });
+  });
+ </script>
+ <script src="home_files/govuk-template-c4f303154d2a238bdda4d5cf1ebd8d4487822e4cbc3e4c83e743da869443ce72.js" type="text/javascript"></script>
+</body>
+</html>
