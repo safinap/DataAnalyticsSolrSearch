@@ -25,7 +25,7 @@ public class Application extends SpringBootServletInitializer {
 	public static void main(String[] args) {
 		SpringApplication.run(applicationClass, args);
 		if (logger.isInfoEnabled()) {
-			logger.info("Application started.");
+			logger.info("Application started...");
 		}
 		while (true) {
 
